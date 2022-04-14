@@ -1,0 +1,9 @@
+/* 구구단 CSS */
+#app {
+  text-align: center;
+}
+
+.olist {
+  list-style: none;
+  font-weight: bold;
+}
